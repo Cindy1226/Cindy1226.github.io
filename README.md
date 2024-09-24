@@ -1,4 +1,3 @@
-# Cindy1226.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -28,10 +27,11 @@
     <h1>Hello! I'm Cindy Liang</h1>
     <p>Welcome to my personal webpage! I am a senior year transfer student majoring in Information Science and Data Science at the University of Illinois Urbana-Champaign.</p>
     
-    <p> I love diving into novels that transport me to different worlds and perspectives. Literature inspires my creativity and helps me think critically, skills that are invaluable in my studies and future career.</p>
+    <p>I love diving into novels that transport me to different worlds and perspectives. Literature inspires my creativity and helps me think critically, skills that are invaluable in my studies and future career.</p>
+
+    <p>In addition to my studies, I am passionate about exploring how data can be used to enhance our understanding of the world around us.</p>
     
-    <p>In addition to my studies, I am passionate about exploring how data can be used to enhance our understanding of the world around us</p>
-    
-    <p>Feel free to connect with me on my <a href="https://github.com/Cindy1226">GitHub profile</a> </p>
+    <p>Feel free to connect with me on my <a href="https://github.com/Cindy1226">GitHub profile</a>.</p>
 </body>
 </html>
+
